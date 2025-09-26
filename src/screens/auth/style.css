@@ -1,0 +1,24 @@
+.main-bg{
+    /* background-image: url("../../../assets/Login-Background.png") cover no-repeat; */
+    height: 100vh;
+    width: 100vw;
+}
+.main-form-div{
+    background: white;
+    border-radius: 10px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 20px;
+    flex-direction: column;
+    box-shadow: 3px 4px 14px 0px #555555;
+}
+.inputFeilds{
+    color: #87D068 !important;
+    font-weight: bold;
+}
+.inputFeilds::placeholder{
+    color: rgb(170, 170, 170);
+    font-weight: bold;
+}
