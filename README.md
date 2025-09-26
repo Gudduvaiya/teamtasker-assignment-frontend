@@ -33,7 +33,7 @@ A modern React + Vite + Ant Design + Tailwind CSS project management dashboard. 
 1. Clone the repository:
   ```sh
   git clone https://github.com/Gudduvaiya/teamtasker-assignment-frontend.git
-  cd myprolist-frontend
+  cd teamtasker-assignment-frontend
   ```
 2. Install dependencies:
   ```sh
